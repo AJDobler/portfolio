@@ -1675,6 +1675,7 @@ a {
 
 .project-link {
   color: #1a1a1a;
+  width:  100%;
 }
 
 @media screen and (max-width: 991px) {
